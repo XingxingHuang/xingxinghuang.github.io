@@ -6,15 +6,10 @@ permalink: /about/
 
 Hi ~ 
 
-## 小密圈：每天写 1000 字改变自己
+## 这是我的第一个博客
 
-践行「每天写 1000 字改变自己」实验社群的场所，你可以在小密圈看到我每天持续发布的原创文字、干货清单、碎片想法、卡片创作、、等，已发布主题 300+ ，累计文字超 15 万字。
 
-践行三年多，每天写 1000 字已给我带来意想不到的变化。2014 年的我，写作新手，苦恼如何写？写什么？怎样坚持？到现在，我已经总结出一套科学实用的写作方法——卡片创作法。在这里，你将与我一起精进践行卡片创作法、一起刻意练习每天写 1000 字，一起用持续写作来改变自己。
+地址：[xingxinghuang.github.io](xingxinghuang.github.io)
 
-价格：199 元/年，时间截止至 2018/02/22，每日更新。
-
-地址：[http://t.xiaomiquan.com/ufe23vv](http://t.xiaomiquan.com/ufe23vv)
-
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
+![]()
 

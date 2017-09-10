@@ -4,14 +4,8 @@
 
 ## 说明
 
-这里是我学习卡片创作的第八大洲：http://mesule.com
+- http://xingxinghuang.github.io 博客
 
-如果你对卡片创作感兴趣，欢迎订阅：http://tinyletter.com/cnfeat
-
-## 访问
-
-- http://mesule.com 通讯备份
-- http://cnfeat.com 博客
 
 ## 版权
 
