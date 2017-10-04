@@ -5,6 +5,7 @@
 ## 说明
 
 - http://xingxinghuang.github.io 博客
+- 该网站简历参考博客的介绍，[一步步在GitHub上创建博客主页](http://www.pchou.info/ssgithubPage/2013-01-03-build-github-blog-page-01.html)
 
 
 ## 版权

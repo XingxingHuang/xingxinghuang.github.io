@@ -1,15 +1,17 @@
 ---
 layout: page
-title: 关于
+title: Xingxing Huang
 permalink: /about/
 ---
 
+
 Hi ~ 
 
-## 这是我的第一个博客
+This is the home of Xingxing Huang, who is passionate about exploring massive amounts of data with tools of math, statistics, programming, and physics to increase our understanding of the world and create value.
 
 
-地址：[xingxinghuang.github.io](xingxinghuang.github.io)
+Address：[xingxinghuang.github.io](xingxinghuang.github.io)	
+Linkedin: [https://www.linkedin.com/in/xingxinghuang](https://www.linkedin.com/in/xingxinghuang)
 
-![]()
+![](x)
 
